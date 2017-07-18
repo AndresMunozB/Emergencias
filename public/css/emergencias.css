@@ -1,0 +1,48 @@
+body {
+    background-color: #222222 !important;
+    background-image: url('/images/background.jpg');
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #eeeeee !important;
+    border-bottom: 1px solid #dddddd !important;
+    margin-bottom: 4em !important;
+}
+
+.navbar-btn {
+    border-radius: 0.3em;
+    color: #888888;
+}
+
+.navbar-btn:hover {
+    background: #bbbbbb;
+    color: white;
+}
+
+.navbar-btn.active {
+    background: #0062a6;
+    color: white;
+    box-shadow: none;
+}
+
+.nav-brand {
+    width: 8em !important;
+    position: absolute;
+}
+
+/* Botones */
+.btn-primary {
+    background: #0062a6 !important;
+    color: white;
+}
+
+/* Thumbnail */
+.thumbnail-img {
+    height: 40vh !important;
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
