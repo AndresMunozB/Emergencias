@@ -356,10 +356,10 @@ class TwitterAPIExchange
     {
         // array de acceso
         $settings = array(
-            'oauth_access_token' => '878085045973643268-HRzrW49Go1UvjFQQCGPNTLIiErD87Eh',
-            'oauth_access_token_secret' => 'VUmdUcmhz0aDj1sdeVv2UPaPkAaH0d07H32aRT61ouZg0',
-            'consumer_key' => 'KfHNHVUa8omeoAuoHABOvYiPG',
-            'consumer_secret' => 'AU8P9yn7sIvt9aUp4vP7OnOK51ZW5er0HvriuE4iylOkrORzW7',
+            'oauth_access_token' => '-HRzrW49Go1UvjFQQCGPNTLIiErD87Eh',
+            'oauth_access_token_secret' => '',
+            'consumer_key' => '',
+            'consumer_secret' => '',
         );
 
         // url
